@@ -12,3 +12,9 @@ Preview: `./serve.sh` then open http://localhost:8099 (must be served; opening i
 
 ## Files
 `index.html` · `css/style.css` · `js/app.js` · `data/*.json`
+
+## Daily Brief auto-refresh
+`scripts/refresh_brief.py` copies the newest post from https://financelabssei.substack.com/feed into the Daily Brief tile. `scripts/refresh_and_push.sh` runs it and pushes only if something changed. A cron entry on the SSEI box runs it every 3 hours (`crontab -l` to see / remove it). Everything else in content.json (videos, research, posts, quiz) is edited by hand.
+
+## Hosting
+GitHub Pages from `main` — https://chiragjoshi0507-sketch.github.io/finance-lab-site/ . Every push to `main` republishes within a minute or two. Pages needs a public repo on the free plan.

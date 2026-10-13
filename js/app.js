@@ -183,6 +183,8 @@
   let pitch = { 1: 300, 3: 260 }, cardSize = { 1: [280, 300], 3: [240, 400] };
 
   function metrics() {
+    const hd = document.querySelector('.top');
+    hd.style.height = ''; hd.style.height = Math.ceil(hd.getBoundingClientRect().height) + 'px';   // whole-pixel stage edge
     W = stage.clientWidth; H = stage.clientHeight;
     mobile = W < 820;
     const pad = mobile ? 16 : Math.max(24, (W - 1240) / 2);
