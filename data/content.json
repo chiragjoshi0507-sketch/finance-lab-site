@@ -1,0 +1,111 @@
+{
+  "_readme": "Everything the site shows lives in this file. The Daily Brief tile is refreshed automatically from Substack (scripts/refresh_brief.py); the rest is edited by hand - see README.md.",
+  "links": {
+    "instagram": "https://instagram.com/financelab.ssei",
+    "instagramHandle": "@financelab.ssei",
+    "youtube": "https://www.youtube.com/@sseiinstitute",
+    "substack": "https://financelabssei.substack.com/",
+    "whatsapp": "https://www.whatsapp.com/channel/Thefinancelabbyssei",
+    "email": "content@ssei.co.in",
+    "quizWhatsapp": "https://www.whatsapp.com/channel/Thefinancelabbyssei"
+  },
+  "brief": {
+    "eyebrow": "Daily Brief · Today’s article",
+    "title": "Musk vs Ambani: The Billionaire Tea Is Getting HOT!",
+    "summary": "Elon Musk wants to bring Starlink to India. Mukesh Ambani already dominates the internet market. And just before Jio’s mega IPO, the fight has gone from satellite spectrum to sarcastic tweets. But there’s much more at stake than two billionaire egos.",
+    "cta": "Read today’s brief →",
+    "url": "https://financelabssei.substack.com/p/musk-vs-ambani-the-billionaire-tea",
+    "image": "https://substackcdn.com/image/fetch/$s_!Qn5t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec910bc0-1116-4b27-892b-874dfc6cea17_1672x941.png"
+  },
+  "videos": [
+    {
+      "tag": "Watch the Money · YouTube",
+      "title": "The Game Theory of a New Cold War",
+      "blurb": "",
+      "thumbText": "The Game Theory of a New Cold War",
+      "youtubeId": "ClKlb8pHsHM",
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=ClKlb8pHsHM"
+    },
+    {
+      "tag": "Watch the Money · YouTube",
+      "title": "India Is Growing. So Why Is the Market Falling?",
+      "blurb": "",
+      "thumbText": "India Is Growing. So Why Is the Market Falling?",
+      "youtubeId": "mXWKaVNN4Fc",
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=mXWKaVNN4Fc"
+    },
+    {
+      "tag": "Watch the Money · YouTube",
+      "title": "Part 4: Bitcoin Was Born From a Crisis of Trust",
+      "blurb": "",
+      "thumbText": "Part 4: Bitcoin Was Born From a Crisis of Trust",
+      "youtubeId": "G4Pg5mdbN78",
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=G4Pg5mdbN78"
+    },
+    {
+      "tag": "Watch the Money · YouTube",
+      "title": "Part 3: $40 Trillion Debt. But That’s Not Even the Scariest Part",
+      "blurb": "",
+      "thumbText": "Part 3: $40 Trillion Debt. But That’s Not Even the Scariest Part",
+      "youtubeId": "4eFp4XoqmBI",
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=4eFp4XoqmBI"
+    }
+  ],
+  "research": {
+    "featured": {
+      "tag": "Under the Lens · Featured",
+      "title": "Eight Tech Giants Just Hit a Green Card Roadblock",
+      "blurb": "A US hiring crackdown, a bruising day on Dalal Street, TCS’s AI numbers, and oil back above $104.",
+      "cta": "Read the research →",
+      "image": "https://substackcdn.com/image/fetch/$s_!DbM_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37483c3a-6a5e-4459-a0dc-73bb1dbabb02_1536x1024.png",
+      "url": "https://financelabssei.substack.com/p/eight-tech-giants-just-hit-a-green"
+    },
+    "items": []
+  },
+  "posts": [
+    {
+      "type": "Carousel",
+      "title": "Your portfolio has a type",
+      "blurb": "Dating-app red flags are investing red flags. Swipe carefully.",
+      "thumbText": "Your portfolio has a type",
+      "image": "assets/posts/portfolio-has-a-type.jpg",
+      "url": "https://www.instagram.com/p/DeZKqJcFGz2/"
+    },
+    {
+      "type": "Carousel",
+      "title": "Airtel Money’s $7B London debut",
+      "blurb": "The catch: it’s a secondary offering, so the company gets $0.",
+      "thumbText": "Airtel Money’s $7B London debut",
+      "image": "assets/posts/airtel-money-london-debut.jpg",
+      "url": "https://www.instagram.com/p/DeWYwtvMdid/"
+    },
+    {
+      "type": "Carousel",
+      "title": "Jio’s ₹37,700 crore IPO",
+      "blurb": "India’s biggest-ever IPO? Reported plans, six things to know.",
+      "thumbText": "Jio’s ₹37,700 crore IPO",
+      "image": "assets/posts/jio-37700-crore-ipo.jpg",
+      "url": "https://www.instagram.com/p/DeTfdPVxOjU/"
+    },
+    {
+      "type": "Carousel",
+      "title": "RBI rate hike: what you need to know",
+      "blurb": "Repo rate 5.50%, +25 bps — the first hike since February 2023.",
+      "thumbText": "RBI rate hike: what you need to know",
+      "image": "assets/posts/rbi-rate-hike.jpg",
+      "url": "https://www.instagram.com/p/DeMHiibt9QV/"
+    }
+  ],
+  "about": {
+    "eyebrow": "About Finance Lab · SSEI",
+    "title": "Finance, explained properly.",
+    "body": [
+      "Finance Lab by SSEI is the finance-education lab of the Sanjay Saraf Educational Institute. We explain how money, markets and businesses actually work — in plain language, with Indian and global examples.",
+      "Read the Daily Brief, test yourself with FinQuest, watch the videos, go deep with our research and catch the quick takes on Instagram and WhatsApp."
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_readme": "FinQuest daily quiz. A question with \"date\": \"YYYY-MM-DD\" (IST) shows on that day. If none matches today, the undated questions rotate by day of year. 'answer' is the 0-based index of the correct option.",
+  "questions": [
+    {
+      "date": "2026-10-13",
+      "q": "According to Grant Thornton Bharat’s Q3 2026 Dealtracker report, what was the value of Bank of America Corporation’s acquisition of a 50% stake in Jio Credit?",
+      "options": [
+        "$1.79 billion",
+        "$1.92 billion",
+        "$1.40 billion",
+        "$1.00 billion"
+      ],
+      "answer": 1,
+      "why": "Bank of America’s investment in Jio Credit was announced at up to ₹18,268 crore — about $1.9 billion — covering equity and warrants."
+    },
+    {
+      "q": "Who gets the money in an IPO offer for sale?",
+      "options": [
+        "The company",
+        "Selling shareholders"
+      ],
+      "answer": 1,
+      "why": "In an offer for sale, existing shareholders sell their shares, so the proceeds go to them — not to the company. Only a fresh issue raises money for the company."
+    },
+    {
+      "q": "A company reports rising profit but its cash balance is falling. What is the most likely reason?",
+      "options": [
+        "Customers are paying later (receivables are growing)",
+        "The company has too little revenue",
+        "Profit is always equal to cash"
+      ],
+      "answer": 0,
+      "why": "Profit is booked when a sale is made; cash arrives when customers pay. Growing receivables or inventory can eat the cash."
+    },
+    {
+      "q": "If a central bank raises its policy rate, what usually happens to the price of existing bonds?",
+      "options": [
+        "They rise",
+        "They fall"
+      ],
+      "answer": 1,
+      "why": "Higher rates push market yields up, and bond prices move opposite to yields."
+    },
+    {
+      "q": "Free cash flow is best described as:",
+      "options": [
+        "Net profit plus depreciation",
+        "Operating cash flow minus capital expenditure",
+        "Revenue minus all expenses"
+      ],
+      "answer": 1,
+      "why": "It is the cash left after the business has paid to maintain and grow its asset base."
+    },
+    {
+      "q": "Which index tracks 50 large companies listed on the NSE?",
+      "options": [
+        "Sensex",
+        "Nifty 50"
+      ],
+      "answer": 1,
+      "why": "Nifty 50 is the NSE benchmark; the Sensex is the BSE’s 30-stock index."
+    },
+    {
+      "q": "A P/E ratio compares a company’s share price to its:",
+      "options": [
+        "Earnings per share",
+        "Dividend per share",
+        "Book value per share"
+      ],
+      "answer": 0,
+      "why": "P/E = price ÷ earnings per share: how much investors pay for each rupee or dollar of earnings."
+    },
+    {
+      "q": "Which of these is a regulator of India’s securities markets?",
+      "options": [
+        "SEBI",
+        "IRDAI",
+        "PFRDA"
+      ],
+      "answer": 0,
+      "why": "SEBI regulates securities markets. IRDAI oversees insurance and PFRDA oversees pensions."
+    }
+  ]
+}
