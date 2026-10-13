@@ -18,3 +18,7 @@ Preview: `./serve.sh` then open http://localhost:8099 (must be served; opening i
 
 ## Hosting
 GitHub Pages from `main` — https://chiragjoshi0507-sketch.github.io/finance-lab-site/ . Every push to `main` republishes within a minute or two. Pages needs a public repo on the free plan.
+
+## Look & feel
+Black background, one bold colour per section (Daily Brief violet, FinQuest yellow, Under the Lens lime, About tiles pink/lime/orange/cyan). Fonts (Bricolage Grotesque + Space Grotesk) are self-hosted in `assets/fonts/`. Palette lives at the top of `css/style.css` and `js/app.js`.
+Marquee speed/direction: `SPEED` and `DIRECTION` at the top of `js/app.js`. It ignores the OS "reduce motion" setting on purpose (there is a Pause button instead).

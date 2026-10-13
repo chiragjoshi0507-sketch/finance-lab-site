@@ -6,11 +6,11 @@
     "youtube": "https://www.youtube.com/@sseiinstitute",
     "substack": "https://financelabssei.substack.com/",
     "whatsapp": "https://www.whatsapp.com/channel/Thefinancelabbyssei",
-    "email": "content@ssei.co.in",
+    "email": "chiragjjoshi@ssei.co.in",
     "quizWhatsapp": "https://www.whatsapp.com/channel/Thefinancelabbyssei"
   },
   "brief": {
-    "eyebrow": "Daily Brief · Today’s article",
+    "eyebrow": "☕ Daily Brief · Today’s drop",
     "title": "Musk vs Ambani: The Billionaire Tea Is Getting HOT!",
     "summary": "Elon Musk wants to bring Starlink to India. Mukesh Ambani already dominates the internet market. And just before Jio’s mega IPO, the fight has gone from satellite spectrum to sarcastic tweets. But there’s much more at stake than two billionaire egos.",
     "cta": "Read today’s brief →",
@@ -19,7 +19,7 @@
   },
   "videos": [
     {
-      "tag": "Watch the Money · YouTube",
+      "tag": "Watch the Money",
       "title": "The Game Theory of a New Cold War",
       "blurb": "",
       "thumbText": "The Game Theory of a New Cold War",
@@ -28,7 +28,7 @@
       "url": "https://www.youtube.com/watch?v=ClKlb8pHsHM"
     },
     {
-      "tag": "Watch the Money · YouTube",
+      "tag": "Watch the Money",
       "title": "India Is Growing. So Why Is the Market Falling?",
       "blurb": "",
       "thumbText": "India Is Growing. So Why Is the Market Falling?",
@@ -37,7 +37,7 @@
       "url": "https://www.youtube.com/watch?v=mXWKaVNN4Fc"
     },
     {
-      "tag": "Watch the Money · YouTube",
+      "tag": "Watch the Money",
       "title": "Part 4: Bitcoin Was Born From a Crisis of Trust",
       "blurb": "",
       "thumbText": "Part 4: Bitcoin Was Born From a Crisis of Trust",
@@ -46,7 +46,7 @@
       "url": "https://www.youtube.com/watch?v=G4Pg5mdbN78"
     },
     {
-      "tag": "Watch the Money · YouTube",
+      "tag": "Watch the Money",
       "title": "Part 3: $40 Trillion Debt. But That’s Not Even the Scariest Part",
       "blurb": "",
       "thumbText": "Part 3: $40 Trillion Debt. But That’s Not Even the Scariest Part",
@@ -57,7 +57,7 @@
   ],
   "research": {
     "featured": {
-      "tag": "Under the Lens · Featured",
+      "tag": "🔍 Featured research",
       "title": "Eight Tech Giants Just Hit a Green Card Roadblock",
       "blurb": "A US hiring crackdown, a bruising day on Dalal Street, TCS’s AI numbers, and oil back above $104.",
       "cta": "Read the research →",
@@ -102,7 +102,7 @@
   ],
   "about": {
     "eyebrow": "About Finance Lab · SSEI",
-    "title": "Finance, explained properly.",
+    "title": "Finance, but make it make sense.",
     "body": [
       "Finance Lab by SSEI is the finance-education lab of the Sanjay Saraf Educational Institute. We explain how money, markets and businesses actually work — in plain language, with Indian and global examples.",
       "Read the Daily Brief, test yourself with FinQuest, watch the videos, go deep with our research and catch the quick takes on Instagram and WhatsApp."
